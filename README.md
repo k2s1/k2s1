@@ -28,11 +28,10 @@
 
 ## Skills
 
-Mostly vibe coding — these are just the ones I keep coming back to.
+Mostly vibe coding — Claude does the heavy lifting, I take the credit.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://skillicons.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://skillicons.dev)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://skillicons.dev)
+[![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api?username=k2s1&show_langs=true&layout=compact&theme=dark&hide_border=true&include_all=true&count_private=true)](https://github-readme-stats.vercel.app)
 
