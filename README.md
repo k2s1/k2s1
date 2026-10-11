@@ -30,8 +30,12 @@
 
 Mostly vibe coding — Claude does the heavy lifting, I take the credit.
 
-[![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
+[![GPT](https://raw.githubusercontent.com/k2s1/k2s1/main/badges/gpt.svg)](https://chatgpt.com)
+[![DeepSeek](https://raw.githubusercontent.com/k2s1/k2s1/main/badges/deepseek.svg)](https://chat.deepseek.com)
+[![Kimi](https://raw.githubusercontent.com/k2s1/k2s1/main/badges/kimi.svg)](https://kimi.moonshot.cn)
+[![GLM](https://raw.githubusercontent.com/k2s1/k2s1/main/badges/glm.svg)](https://open.bigmodel.cn)
+[![Qwen](https://raw.githubusercontent.com/k2s1/k2s1/main/badges/qwen.svg)](https://chat.qwen.ai)
+[![MiniMax](https://raw.githubusercontent.com/k2s1/k2s1/main/badges/minimax.svg)](https://www.minimax.io)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api?username=k2s1&show_langs=true&layout=compact&theme=dark&hide_border=true&include_all=true&count_private=true)](https://github-readme-stats.vercel.app)
 
