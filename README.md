@@ -28,7 +28,7 @@
 
 ## Skills
 
-Mostly vibe coding — Claude does the heavy lifting, I take the credit.
+Just a vibe coder.
 
 [![GPT](https://raw.githubusercontent.com/k2s1/k2s1/main/badges/gpt.svg)](https://chatgpt.com)
 [![DeepSeek](https://raw.githubusercontent.com/k2s1/k2s1/main/badges/deepseek.svg)](https://chat.deepseek.com)
