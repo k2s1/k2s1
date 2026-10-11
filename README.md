@@ -28,19 +28,11 @@
 
 ## Skills
 
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+Mostly vibe coding — these are just the ones I keep coming back to.
 
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://skillicons.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://skillicons.dev)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://skillicons.dev)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api?username=k2s1&show_langs=true&layout=compact&theme=dark&hide_border=true&include_all=true&count_private=true)](https://github-readme-stats.vercel.app)
 
