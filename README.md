@@ -12,7 +12,6 @@
   <br/>
 
   <a href="https://www.k2sportfolio.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-k2sportfolio.xyz-36BCF7?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://linktr.ee/k2sbhai" target="_blank"><img src="https://img.shields.io/badge/Linktree-2B2B2B?style=for-the-badge&logo=linktree&logoColor=00E67A" alt="Linktree" /></a>
 
 </div>
 
@@ -20,16 +19,10 @@
 
 ## About Me
 
-- **a bug in dev**
-- Building AI tooling, LLM API tooling and security automation
-- Python · TypeScript · Shell — I ship small tools that solve one thing well
-- [awesome-freellm-apis](https://github.com/k2s1/awesome-freellm-apis) is my open collection of free LLM APIs
-
-```python
->>> import k2s
->>> k2s.status()
-"a bug in dev"
-```
+- **AI content creator & tech creator**
+- Sharing **free AI models**, free tools and open-source repos
+- Making content about what actually works — reviews, breakdowns, tutorials
+- **Testing AI models** so you don't waste time on the wrong one
 
 ---
 
@@ -69,7 +62,6 @@
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/k2sbhai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k2sbhai)
-[![Linktree](https://img.shields.io/badge/Linktree-00E67A?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/k2sbhai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge)](https://www.k2sportfolio.xyz)
 
 ---
